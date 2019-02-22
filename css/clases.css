@@ -1,0 +1,96 @@
+.navbar-brand img
+{
+	width: 100px;
+	height: 40px;
+}
+
+    
+
+.navbar
+{
+    background:#2980B9;
+    margin: auto;
+    height: 60px;
+	font-family: Franklin Gothic Heavy;
+
+}
+.user
+{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+
+.seccion
+{
+	height: 500px;
+}
+.imagenc
+{
+  margin: 10px auto;
+
+}
+#tbl_datos_personales td
+{
+
+	padding: 5px;
+}
+#tbl_resultados
+{
+	border : #2980B9 solid 2px;
+}
+#tbl_resultados td
+{
+	padding: 5px;
+}
+#form_quejas select,textarea
+{
+	margin: 5px;
+}
+#form_quejas textarea
+{
+  width: 250px;
+}
+.btn_eliminar_entrada
+{
+	background: red;
+}
+#btn_quejas
+{
+   margin-left: 5px;
+}
+.textquejas
+{
+	border-radius: 6px;
+	width: 250px;
+	height: 100px
+}
+
+.footer
+{
+	background:#2980B9;
+	color:white;
+	
+}
+.footer p
+{
+	margin: 15px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

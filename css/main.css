@@ -1,0 +1,67 @@
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	border-color: #337ab7;
+}
+.navbar-brand img{
+	width: 100px;
+	height: 30px;
+}
+.navbar{
+    background: ;
+    margin: auto;
+    height: 60px;
+	font-family: Franklin Gothic Heavy;
+}
+.container-fluid {
+	text-align: justify;
+}
+.container-fluid h2,h3,p,img
+{
+	margin: 7px;
+}
+.imgm
+{
+	width: 350px;
+	height: 230px;
+}
+#aside 
+{
+	text-align: center;
+}
+#aside h5
+{
+	text-align: center;
+	font-family: Franklin Gothic Heavy;
+}
+#aside img
+{
+	width: 150px;
+	height: 100px;
+}
+.footer
+{
+	background:#2980B9 ;
+	
+}
+.footer p
+{
+	margin: 15px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
